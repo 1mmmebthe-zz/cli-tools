@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Added healthcheck endpoint stub
 - Verified API endpoint response schema
+
+## 2026-03-23
+- Updated CI cache strategy
+- Tidied up project structure
+- Ran linter, applied auto-fixes
