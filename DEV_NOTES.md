@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Tidied up project structure
 - Ran linter, applied auto-fixes
+
+## 2026-03-23
+- Added type hints to helper functions
